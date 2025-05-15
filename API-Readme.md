@@ -1,4 +1,3 @@
-```markdown
 # Diyanet İşleri Başkanlığı Kur'an Portalı API Dokümantasyonu
 
 Bu doküman, Diyanet İşleri Başkanlığı Bilgi İşlem Daire Başkanlığı tarafından sunulan Kur'an Portalı (kuran.diyanet.gov.tr) API endpoint'lerini ve kullanımlarını açıklamaktadır.
