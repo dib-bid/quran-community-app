@@ -156,7 +156,6 @@ Aşağıdaki tablo, arayüzdeki Kâri seçimine, `pagedata` API'sindeki ilgili `
 | Abdulbasit Abdussamed           | `11`                      | `ar_abdussamet`          |
 | Abdullah Al Juhani              | `12`                      | `ar_abdullahaljuhani`    |
 | Mehmet Çevik                    | `13`                      | `ar_mehmetcevik`         |
-| ... (Diğer kâriler)           | ...                       | ...                      |
 
 ### İstek Yöntemi ve Durum Kodu
 
